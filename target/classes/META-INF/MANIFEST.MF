@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: anhdang
+Class-Path: dependency-jars/lucene-core-5.4.0.jar dependency-jars/luce
+ ne-analyzers-common-5.4.0.jar dependency-jars/commons-collections4-4.
+ 1.jar dependency-jars/commons-io-2.4.jar dependency-jars/jackson-core
+ -2.7.4.jar dependency-jars/opennlp-tools-1.6.0.jar dependency-jars/tr
+ ove4j-3.0.3.jar dependency-jars/gson-2.6.jar
+Build-Jdk: 1.8.0_101
+Created-By: Maven Integration for Eclipse
+Main-Class: LSA
+
