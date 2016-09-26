@@ -5,10 +5,10 @@ This java program read each line of the Reddit generated comment files (from thi
 #!/bin/bash
 #PBS -S /bin/bash
 #PBS -l procs=256
-#PBS -M dtuananh@gmail.com
+#PBS -M email@gmail.com
 #PBS -m bea
-#PBS -o /home/hellovn/ngrams/out2015_9.out
-#PBS -e /home/hellovn/ngrams/err2015_9.err
+#PBS -o /home/username/ngrams/out2015_9.out
+#PBS -e /home/username/ngrams/err2015_9.err
 
 /home/hellovn/ngrams/jdk1.8.0_73/bin/java -jar -Xmx2000g -Xms2000g -jar /home/h$
 
